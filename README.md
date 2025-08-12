@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia de Software  
 👨‍🍳 Ex-chef de culinária japonesa em transição de carreira para tecnologia  
 💼 Buscando oportunidades de estágio | Foco em Front-end, Back-end e Dados  
-📍 Santos-SP | Disponível para remoto
+📍 Santos-SP | Disponível Estagio 
 
 ---
 
